@@ -1,3 +1,3 @@
 # best-repo-ever
 test test
-this is new-branch-2
+this is commit of new-branch-1
